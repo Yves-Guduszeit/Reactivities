@@ -1,0 +1,10 @@
+bin
+obj
+.vs
+.vscode
+*.csproj.user
+appsettings.json
+*.db
+wwwroot
+publish
+PublishProfiles
